@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7dad9ec814095f4db699b3210a97664, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  pickUpName: Coin
+  pickUpType: 0
+  pickupPrefab: {fileID: 4418386846447609441, guid: cc3f4cdacafac5d47a42d77e8f82f862, type: 3}
+  pickupDropProbability: 0.8
+  pickupAmount: 1
+  pickupMinDropAmount: 1
+  pickupMaxDropAmount: 8

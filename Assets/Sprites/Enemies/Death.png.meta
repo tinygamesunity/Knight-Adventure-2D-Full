@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: a69e534abea5cbb4caa03a84c57f6114
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255e5f540ef0a1f42933f7922bd21c4c
+      internalID: 1182042146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 163
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1701f7d9b279544ba567747a498409
+      internalID: 1320349712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc951b1324329f14eb25b26da9c88d4c
+      internalID: -2114255806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010bf8909385704a854589b4062e7fc
+      internalID: 1910042305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d997570f73e895a4596dfd9c95a0c5c8
+      internalID: -1179331618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a188fa45e2cb4394ae6d4e37d1de9
+      internalID: 1141612863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a732f5903c22f49835e16624b972b5
+      internalID: -321156435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a5a6f4c589a2469e2c39df9104e3d
+      internalID: -1517135067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bec35cf28859478144b0928778b7f
+      internalID: -136239978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc6976d974be4489d56f949f874c0e
+      internalID: 1822469796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb45f76f91315d428419ec401b95277
+      internalID: 849924716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebfd6dea1ce44c479b6b91c77893ef0
+      internalID: -658769288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3db43dd9fd5bd4b933174199b9e058
+      internalID: 1908336343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4318543816b001e4eb2233eecafeb24a
+      internalID: -355515105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25cd6ec510ebc4cb360cb32abd7f15
+      internalID: -132302233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037f52d3ff99bc448d820e50984efee
+      internalID: 1267584233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd087c00f1c2d94eabb32748f510ba3
+      internalID: -1582072463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5693db5590af2d147b3b1ff6187946f5
+      internalID: -398784974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fe555e0cff79442939ac36d3119ff4
+      internalID: 773080546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d68cd16a704c4fbf87a134309291c
+      internalID: 1668578597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb448e3ae272d4a9828644b6783280
+      internalID: 1359399910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf2d98d4b705ab42a0b20413af34c14
+      internalID: -1254875376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f58fa592a60be468256f857ef1bf05
+      internalID: -1370066871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4b5c3e70a92541ab73223efd22758
+      internalID: 2038708937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445bcfa21ec56945827dbafad2a27e0
+      internalID: -490042805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5b9dc377116744aca6d315e40b25d
+      internalID: -867842077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939fca56f2bb0de48bb54f2a5a077dcb
+      internalID: 2042244247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_0: 1182042146
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_1: 1320349712
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_10: 849924716
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_11: -658769288
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_12: 1908336343
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_13: -355515105
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_14: -132302233
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_15: 1267584233
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_16: -1582072463
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_17: -398784974
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_18: 773080546
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_19: 1668578597
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_2: -2114255806
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_20: 1359399910
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_21: -1254875376
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_22: -1370066871
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_23: 2038708937
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_24: -490042805
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_25: -867842077
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_26: 2042244247
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_3: 1910042305
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_4: -1179331618
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_5: 1141612863
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_6: -321156435
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_7: -1517135067
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_8: -136239978
+      kisspng-sprite-particle-system-drawing-animation-particles-5ac72a99eb6761.5702921815230020099642_9: 1822469796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
